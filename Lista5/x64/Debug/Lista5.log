@@ -1,2 +1,2 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(494,5): warning MSB8003: a propriedade VCToolsInstallDir não está definida. Algumas ferramentas de build podem não ser encontradas.
-TRACKER : error TRK0005: Failed to locate: "CL.exe". O sistema não pode encontrar o arquivo especificado.
+﻿  glad.c
+c1 : fatal error C1083: Não é possível abrir arquivo fonte: '..\..\dependencies\glad.c': No such file or directory
